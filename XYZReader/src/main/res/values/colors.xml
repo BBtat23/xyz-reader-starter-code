@@ -30,4 +30,6 @@
 
     <color name="headlineText">#0277BD</color>
     <color name="detailText">#212121</color>
+    <color name="black_transparent_0">#00000000</color>
+    <color name="grey_300">#E0E0E0</color>
 </resources>
